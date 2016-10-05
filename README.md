@@ -19,6 +19,7 @@ A curated list of awesome RiveScript [bots](#bots), [personalities](#personaliti
 - [JARVIS](https://github.com/truestealth/JARVIS) - A Python home automation bot.
 - [Domogik](https://github.com/domogik/domogik) - Home automation software that includes RiveScript in its "butler" plugin.
 - [Vixia](http://www.vixia.fr/createbot/index.php) - A French language (English optional) chatbot hosting site that uses RiveScript (using an open source custom PHP implementation).
+- [QuickBlox Chatbots](http://quickblox.com/developers/ChatBots) - A tutorial and example code to create a RiveScript bot for the QuickBlox cloud messaging platform.
 
 ## Personalities
 
