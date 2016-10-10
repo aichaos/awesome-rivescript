@@ -20,6 +20,7 @@ A curated list of awesome RiveScript [bots](#bots), [personalities](#personaliti
 - [Domogik](https://github.com/domogik/domogik) - Home automation software that includes RiveScript in its "butler" plugin.
 - [Vixia](http://www.vixia.fr/createbot/index.php) - A French language (English optional) chatbot hosting site that uses RiveScript (using an open source custom PHP implementation).
 - [QuickBlox Chatbots](http://quickblox.com/developers/ChatBots) - A tutorial and example code to create a RiveScript bot for the QuickBlox cloud messaging platform.
+- [Alexa-Rivescript-Chatbot](https://github.com/ekt1701/Alexa-Rivescript-Chatbot) - A RiveScript bot for Amazon Alexa.
 
 ## Personalities
 
